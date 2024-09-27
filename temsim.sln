@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "temsim", "temsim.vcxproj", "{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		autoslic|x64 = autoslic|x64
+		autoslic|x86 = autoslic|x86
+		autoslic-debug|x64 = autoslic-debug|x64
+		autoslic-debug|x86 = autoslic-debug|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		magnetic-test|x64 = magnetic-test|x64
+		magnetic-test|x86 = magnetic-test|x86
+		magnetic-test-debug|x64 = magnetic-test-debug|x64
+		magnetic-test-debug|x86 = magnetic-test-debug|x86
+		probe|x64 = probe|x64
+		probe|x86 = probe|x86
+		probe-debug|x64 = probe-debug|x64
+		probe-debug|x86 = probe-debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.autoslic|x64.ActiveCfg = autoslic|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.autoslic|x64.Build.0 = autoslic|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.autoslic|x86.ActiveCfg = autoslic|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.autoslic|x86.Build.0 = autoslic|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.autoslic-debug|x64.ActiveCfg = autoslic-debug|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.autoslic-debug|x64.Build.0 = autoslic-debug|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.autoslic-debug|x86.ActiveCfg = autoslic-debug|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.autoslic-debug|x86.Build.0 = autoslic-debug|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.Debug|x64.ActiveCfg = Debug|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.Debug|x64.Build.0 = Debug|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.Debug|x86.ActiveCfg = Debug|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.Debug|x86.Build.0 = Debug|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.magnetic-test|x64.ActiveCfg = magnetic-test|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.magnetic-test|x64.Build.0 = magnetic-test|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.magnetic-test|x86.ActiveCfg = magnetic-test|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.magnetic-test|x86.Build.0 = magnetic-test|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.magnetic-test-debug|x64.ActiveCfg = magnetic-test-debug|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.magnetic-test-debug|x64.Build.0 = magnetic-test-debug|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.magnetic-test-debug|x86.ActiveCfg = magnetic-test-debug|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.magnetic-test-debug|x86.Build.0 = magnetic-test-debug|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.probe|x64.ActiveCfg = probe|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.probe|x64.Build.0 = probe|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.probe|x86.ActiveCfg = probe|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.probe|x86.Build.0 = probe|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.probe-debug|x64.ActiveCfg = probe-debug|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.probe-debug|x64.Build.0 = probe-debug|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.probe-debug|x86.ActiveCfg = probe-debug|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.probe-debug|x86.Build.0 = probe-debug|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.Release|x64.ActiveCfg = Release|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.Release|x64.Build.0 = Release|x64
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.Release|x86.ActiveCfg = Release|Win32
+		{7FFDA255-03DF-42AB-BD18-6035C4A2E12D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {151F16CA-9D4E-4767-B6FE-F8B0F13F4323}
+	EndGlobalSection
+EndGlobal
